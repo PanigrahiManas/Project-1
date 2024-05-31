@@ -1,3 +1,7 @@
 Integer I=10
 Integer J=10
+<<<<<<< HEAD
 Integer M=20
+=======
+Integer K=20
+>>>>>>> f9bce37cf155226b648152e3bb68526c0f4f6a85
