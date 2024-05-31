@@ -1,2 +1,7 @@
 Integer manager=10
+<<<<<<< HEAD
 Integer manager=15
+=======
+Integer manager=20
+Integer manager=30
+>>>>>>> ba271bcd646e957b62f7f8fe75e73fa1ab112398
